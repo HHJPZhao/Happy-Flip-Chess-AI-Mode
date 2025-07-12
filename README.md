@@ -11,7 +11,7 @@ A fast-paced and unpredictable chess variant played on a crowded 4x8 board. All 
 
 
 This game is designed to be played from a single HTML file. To play, click the link **[(https://hhjpzhao.github.io/Happy-Flip-Chess-AI-Mode/)](https://hhjpzhao.github.io/Happy-Flip-Chess-AI-Mode/)**
-Or simply download the game's `((https://hhjpzhao.github.io/Happy-Flip-Chess-AI-Mode/))` file and open it in any modern web browser.
+Or simply download the game's `(https://hhjpzhao.github.io/Happy-Flip-Chess-AI-Mode/)` file and open it in any modern web browser.
 
 
 
